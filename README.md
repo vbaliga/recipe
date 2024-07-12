@@ -4,7 +4,7 @@
 ### My recipe 
 line 2 changed remotely 
 
-This is a sentence. This is also a sentence. Burgers are great
+**This is a bold sentence.** This is also a sentence. Burgers are *great*
 
 This is an ordered list:
 1. First item
